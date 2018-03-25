@@ -2,6 +2,13 @@
 
 This project presents an image analysis pipeline for clinical decision support of cancer histopathology images.
 
+# Project Description
+1. Automatic segmentation of nuclear structures
+2. Image feature extraction and exploration
+3. Image classification
+4. GUI wrapper to run code
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
